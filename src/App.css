@@ -3,6 +3,13 @@
   margin-left: 600px;
 }
 
+button{
+  border-radius: 5px;
+  border: 0px solid;
+  height: 40px;
+  width: auto;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
